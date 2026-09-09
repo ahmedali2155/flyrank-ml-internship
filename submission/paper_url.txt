@@ -1,1 +1,1 @@
-PASTE-YOUR-DEPLOYED-PAPER-URL-HERE
+https://ahmedalii-portfolio.vercel.app/flyrank-research-paper
